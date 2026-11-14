@@ -1,5 +1,7 @@
 # Portofolio Profesional — Muhammad Ijaz Shafarin
 
+![Preview](images/Preview.JPG)
+
 Website portofolio pribadi yang dirancang bersih, ringan, dan mudah dijelajahi. Menyajikan latar belakang pendidikan, pengalaman kerja, kemampuan teknis, proyek, sertifikat, hingga kegiatan organisasi dalam satu halaman yang rapi dan responsif.
 
 **Live Demo:** [https://ijazshafarin-porto.netlify.app]
